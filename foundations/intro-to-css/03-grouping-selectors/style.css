@@ -1,11 +1,11 @@
-#b1{
-    color: white;
-    background-color: black;
-}
-#b2{
-    background-color: yellow;
-}
-.button{
+.b1, .b2{
     font-size: 28px;
-    font-family: "Helvetic", "Times New Roman", sans-serif;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.b1{
+    background-color: black;
+    color: white;
+}
+.b2{
+    background-color: yellow;
 }
